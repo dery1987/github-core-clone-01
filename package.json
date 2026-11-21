@@ -1,0 +1,1 @@
+{"description":"GitHub-compatible git forge (make.fun github-core-clone-01)","license":"MIT","main":"main.ts","name":"github-core-clone","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"0.1.0"}
